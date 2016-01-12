@@ -1,0 +1,8 @@
+server/SelectDishLikeName.class
+server/CreateDish.class
+server/Operation.class
+server/SelectAllDish.class
+shared/Categories.class
+shared/Ingredients.class
+server/DeleteDish.class
+shared/Dish.class

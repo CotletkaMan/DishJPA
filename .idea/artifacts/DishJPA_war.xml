@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DishJPA:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="DishJPA-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="DishJPA:war exploded" />
+    </root>
+  </artifact>
+</component>
